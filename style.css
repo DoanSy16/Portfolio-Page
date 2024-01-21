@@ -126,13 +126,15 @@ header .head-image .head-background .head-this {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
-  background-image: url("images/z4746754029675_13b61e1f2adb2e23edeb52e79a0a3618.jpg");
+  background-image: url("images/z4531953197635_36f02c4f77e1d4ecfed35f7153368f83.jpg");
   background-repeat: no-repeat;
   position: absolute;
   overflow: hidden;
   top: 10px;
   left: 10px;
 }
+
+
 section {
   width: 100%;
   height: 876px;
@@ -308,7 +310,7 @@ section aside .skills .skills-bottom ul li #line05 {
   width: 30%;
 }
 section aside .skills .skills-bottom ul li #line06 {
-  width: 60%;
+  width: 50%;
 }
 section aside .skills .skills-bottom ul li #line07 {
   width: 35%;
@@ -341,7 +343,7 @@ section aside .skills .skills-bottom ul li #line16 {
   width: 25%;
 }
 section aside .skills .skills-bottom ul li #line17 {
-  width: 30%;
+  width: 20%;
 }
 article {
   float: right;
